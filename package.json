@@ -28,4 +28,15 @@
     "tailwindcss": "^4.3.3",
     "typescript": "^5"
   }
+  "dependencies": {
+    // ... suas dependencias atuais
+  },
+  "devDependencies": {
+    // ... suas dev dependencias
+  },
+  "overrides": {
+    "react": "$react",
+    "react-dom": "$react-dom"
+  }
 }
+
